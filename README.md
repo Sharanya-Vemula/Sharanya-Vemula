@@ -17,12 +17,7 @@ Here are some ideas to get you started:
 
   
 
-<img src="https://github.com/SophieNguyen113/SophieNguyen113/blob/main/Sophie%20Nguyen%20-%20CatCat.gif" title="CatCat" alt="CatCat">
-
-<br>
+ 
 
 
------
-Credits: [Sophie Nguyen](https://github.com/SophieNguyen113)
 
-Last Edited on: 10/07/2023
