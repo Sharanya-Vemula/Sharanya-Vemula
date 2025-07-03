@@ -1,47 +1,16 @@
-<div align="center">
-  <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px" align="center"></picture>
-  <h3> About Me </h3>
-</div>
+# 💫 About Me:
+🔭 I’m currently working on machine learning projects focused on predictive analytics and NLP applications<br>👯 I’m looking to collaborate on AI research, data-driven product development, and open-source ML tools<br>🤝 I’m looking for help with fine-tuning LLMs and deploying scalable AI solutions<br>🌱 I’m currently learning Deep Learning, MLOps, and real-world applications of Generative AI<br>⚡ Fun fact: I see data like others see stories—patterns, insights, and predictions are my kind of plot twists!
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi,+I'm+Sharanya+Vemula;Welcome+to+my+GitHub!;Aspiring+Data+Analyst+and+AI+Enthusiast;Lifelong+Learner+and+Driven+Individual;" />
-  </a>
-</p>
 
-<p align="center">
-  If you'd like to know more about me, feel free to connect via the links below.
-</p>
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Sharanya-Vemula&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Sharanya-Vemula&theme=default_repocard&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharanya-Vemula&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Sharanya-Vemula&limit=5&theme=default_repocard&combine_all_yearly_contributions=true)
 
- 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-</p>
-
-<h2 align="center">Skills:</h2>
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg" />
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg" />
-  <img src="https://img.shields.io/badge/Python-3776AB.svg" />
-  <img src="https://img.shields.io/badge/React-%2320232a.svg" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg" />
-  <img src="https://img.shields.io/badge/Heroku-430098" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4" />
-</div>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-</p>
-
-<div align="center">
-  <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Github Stats </h2>
-  <br>
-  <p><img src="https://komarev.com/ghpvc/?username=Sharanya-Vemula&label=Profile+visitors:" alt="Views" /></p>
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-id&layout=compact&theme=dark" alt="Top Langs" /></p>
-  <p><img src="https://github-readme-stats.vercel.app/api?username=your-github-id&count_private=true&show_icons=true&theme=dark&hide=issues" alt="My GitHub stats" /></p>
-</div>
+---
+[![](https://visitcount.itsvg.in/api?id=Sharanya-Vemula&icon=0&color=0)](https://visitcount.itsvg.in)
